@@ -1,0 +1,6 @@
+github.com/hughluo/semver v1.0.0 h1:rSjQqNY9EGTK+c3qdiFyVFNgP682cdHIUhCsxlpJimw=
+github.com/hughluo/semver v1.0.0/go.mod h1:OkJHd12MreRYITrNXMU5JUQFrSnLedzib0RuLkQD39U=
+github.com/hughluo/semver v1.2.0 h1:CNNT++jywGDsMYyxNBFPTkOED6Slc0HKMu7aYlXi9Do=
+github.com/hughluo/semver v1.2.0/go.mod h1:OkJHd12MreRYITrNXMU5JUQFrSnLedzib0RuLkQD39U=
+github.com/hughluo/semver/v2 v2.2.0 h1:yGMz77bUi/yomuyXDabEQ/RGGTgXguaqaMjXAPLzhhc=
+github.com/hughluo/semver/v2 v2.2.0/go.mod h1:NS4zc1pbiVzgNcydrUcCEIv2fadwa9b2ZYlbD/k8YlE=
